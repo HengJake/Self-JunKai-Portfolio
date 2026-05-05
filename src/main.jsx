@@ -6,7 +6,7 @@ import "./index.scss";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-    <Router basename="/JunKai-Portfolio">
+    <Router basename="/Self-JunKai-Portfolio">
       <App />
     </Router>
   </React.StrictMode>
